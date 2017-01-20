@@ -32,3 +32,13 @@ In the provided .JS file called 'types.js', update the code in the flagged spots
 ### Files Provided
 * index.html - Sources the JavaScript file (`script.js`). There isn't much happening here and you are not required to make changes to this file. Note that this is the same index.html as mentioned in the previous portion of the assignment.
 * types.js - This is where you will add your code. We have provided some scaffolding code and comments to help you get started. Replace the flags with the code that completes the functionality mentioned above.
+
+## Week 2 Assignment, Pt.3 - Optional Pro Mode!
+Check out the scope.js file provided in the folder. In there, you will find a function, that when run will produce a couple of different numbers. For this assignment, work through the code without the use of the computer. The objective is to think critically about how the code is executed and see if you can figure out what the answer is for each of the two console logs. This will require you to stretch your understanding of Functions, Scope, and how Variables work. 
+
+This is a very difficult assignment for your first week with Javascript, so don't get frustrated if you test the code out, and don't come to the same conclusion as the code did. Instead, try to work through why the answers are the way they are. If you got them right, then you should order up some Pizza and celebrate your understanding of these difficult topics!
+
+### Files Provided
+* scope.js - Open up the file and take a look at it. See if you can figure out how it all works. Then try to figure out what the values are that would be written in the console log statements. 
+
+Once you have completed the work for the week, make sure to check your Repo in and submit against the Prime Academy Assignment Application! Good Luck!
