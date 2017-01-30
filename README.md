@@ -3,8 +3,6 @@
 ## Getting User Input, Conditionals, and Scope
 Animal guessing game. When the page is loaded the user is prompted to guess an animal. Once they submit their answer the program will either tell them that they correctly guessed the animal or that they should try again.
 
-Short video of functioning program: [TDB]()
-
 ### Topics Covered
 * The prompt function and user input
 * Creating a variable
