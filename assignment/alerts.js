@@ -16,4 +16,4 @@ function animalGuess(animalName){
 }
 
 // What will this log?
-console.log(animalName);
+// console.log(animalName);
