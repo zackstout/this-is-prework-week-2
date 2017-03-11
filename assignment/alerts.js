@@ -14,6 +14,3 @@ console.log('Script sourced!');
 function animalGuess(animalName){
   // if statement goes in here.
 }
-
-// What will this log?
-// console.log(animalName);
