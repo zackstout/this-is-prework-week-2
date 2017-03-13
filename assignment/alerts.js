@@ -3,17 +3,32 @@
 // sourced you will see the log message: 'Script sourced!'.
 console.log('Script sourced!');
 
-// * Step One * - Create a variable from user input and conditional statement
-  // var animal =
-// Once you have the animal variable. Write your conditional statement.
-// Use these exact strings: 'Try again.' and 'How did you know?!'.
+/**
+ * Animal Guessing Game
+ * When the page is loaded, the user is prompted to guess an animal.
+ * Once they submit their answer the program will either
+ * - tell them that they correctly guessed the animal or
+ * - that they should try again.
+ */
 
-// * Step Two * - Refactor into a function
+// 1. Create a variable that takes in user input via the prompt function
+// that asks "Of what animal am I thinking?".
+
+// var animal =
+
+// 2. Write a conditional statement (if/else) that alerts
+// - "How did you know?!" if the user guesses "turtle" or
+// - "Try again." if the user did not guess "turtle" correctly.
+// IMPORTANT: Use these exact strings: 'Try again.' and 'How did you know?!'.
+
+// 3. Refactor your code above into the "animalGuess" function below.
+// Think about the variable "animalName" and how it is different than "animal".
 // Call the function by passing the animal variable into it
 
-function animalGuess(animalName){
-  // if statement goes in here.
+function animalGuess(animalName) {
+  // conditional statement goes in here
 }
 
-// What will this log?
+// 4. Answer the question: What will "console.log(animalName)" log outside the
+// "animalGuess" function?
 // console.log(animalName);
