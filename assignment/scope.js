@@ -5,7 +5,7 @@
  *
  * For this assignment, work through the code without the use of the computer.
  * The objective is to think critically about how the code is executed and
- * see if you can figure out what the answer is for each of the two console logs.
+ * see if you can figure out what the answer is for each of the two undefined variables.
  * This will require you to stretch your understanding of how functions, scope,
  * and variables work.
  *
@@ -15,7 +15,6 @@
  * the way they are. If you got them right, then you should order up some
  * pizza and celebrate your understanding of these difficult topics!
  */
-function thePizzeria() {
     var theNumber = 1;
 
     var michelangelo = function (value) {
@@ -41,15 +40,13 @@ function thePizzeria() {
         return yetAnotherValue;
     };
 
-    // michelangelo(theNumber) + leonardo(theNumber);
+    michelangelo(theNumber) + leonardo(theNumber);
     // ^ Before running the script, what number would you expect the line above to evaluate to?
-    console.log(/* Replace this comment with your answer */);
+    var resultOne = undefined; // replace undefined with the result
 
 
     theNumber = theNumber * 2;
 
-    // donatello(theNumber, 2) - (raphael(3, 2, theNumber);
+    donatello(theNumber, 2) - (raphael(3, 2, theNumber));
     // ^ Before running the script, what number would you expect the line above to evaluate to?
-    console.log(/* Replace this comment with your answer */);
-
-}
+    var resultTwo = undefined; // replace undefined with the result
