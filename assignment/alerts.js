@@ -22,6 +22,8 @@ console.log('Script sourced!');
 // IMPORTANT: Use these exact strings: 'Try again.' and 'How did you know?!'.
 
 // 3. Refactor your code above into the "animalGuess" function below.
+// Refactor means the website should behave the same to the users,
+// but the code is written differently.
 // Think about the variable "animalName" and how it is different than "animal".
 // Call the function by passing the animal variable into it
 
