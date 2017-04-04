@@ -19,9 +19,9 @@ Don't forget to keep the existing code as is and ignore any code that is comment
 
 This week you'll be completing the scripts in the following files. But note, that we have different levels of difficulty contained within each file.
 
-- [ ] *alert.js* (Base)
-- [ ] *types.js* (Base)
-- [ ] *scope.js* (Pro)
+- [ ] *1_alert.js* (Base)
+- [ ] *2_types.js* (Base)
+- [ ] *3_scope.js* (Pro)
 
 Each script has some code ready for you with comments telling you what to write. For example, a
 sample assignment file might have originally been assigned like this:
